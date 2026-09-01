@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Prahlad Bathre 👋
 
-<!--
-**PrahladBathre/PrahladBathre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Full-Stack Developer | React.js | Python | FastAPI | Node.js
 
-Here are some ideas to get you started:
+I'm an MCA graduate focused on building web applications and learning through hands-on development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm working on a **Sales Management System** using **Python, FastAPI, and React.js**.
+
+### 🛠️ Technologies
+
+- **Frontend:** JavaScript, React.js, Redux, Context API, Material UI, HTML5, CSS3
+- **Backend:** Python, FastAPI, Node.js, Express.js, REST APIs
+- **Database:** MongoDB, Mongoose, SQL
+- **Tools:** Git, GitHub, Postman, Render
+
+### 🚀 Projects
+
+**Sales Management System**  
+Currently developing a full-stack application using Python, FastAPI, and React.js.
+
+**Department Management System**  
+MCA final-year full-stack project built using React.js, Node.js, Express.js, MongoDB, and Material UI.
+
+### 🎯 Currently
+
+- Building full-stack applications
+- Improving my React.js and backend development skills
+- Learning Python and FastAPI
+- Looking for opportunities as a Junior Full-Stack / Software Developer
+
+### 📫 Connect With Me
+
+- [LinkedIn](https://linkedin.com/in/prahlad1996)
+- [GitHub](https://github.com/PrahladBathre)
