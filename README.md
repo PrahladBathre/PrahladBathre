@@ -30,5 +30,5 @@ MCA final-year full-stack project built using React.js, Node.js, Express.js, Mon
 
 ### 📫 Connect With Me
 
-- [LinkedIn](https://linkedin.com/in/prahlad1996)
+- [LinkedIn](https://www.linkedin.com/in/prahlad101/)
 - [GitHub](https://github.com/PrahladBathre)
