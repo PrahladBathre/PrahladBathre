@@ -96,7 +96,7 @@ A custom React portfolio featuring a cinematic cosmic introduction, interactive 
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrahladBathre&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub profile trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PrahladBathre&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub profile trophies" />
 </p>
 
 ---
