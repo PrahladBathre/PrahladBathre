@@ -93,10 +93,19 @@ A custom React portfolio featuring a cinematic cosmic introduction, interactive 
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Milestones
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrahladBathre&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub profile trophies" />
+  <a href="https://github.com/PrahladBathre?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My_Repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
+  </a>
+  <a href="https://github.com/PrahladBathre?tab=stars">
+    <img src="https://img.shields.io/badge/Discover-My_Stars-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="Discover my starred repositories" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Every project is an opportunity to learn, build, and improve.</i>
 </p>
 
 ---
